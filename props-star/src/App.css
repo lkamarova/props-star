@@ -1,0 +1,16 @@
+.App {
+  width: 50%;
+  margin: 4px 4px 4px 8px;
+  box-shadow: 0 4px 16px 0 rgb(72 107 125 / 15%);
+  margin: auto;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.li {
+  list-style-type: none
+}
